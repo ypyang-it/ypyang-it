@@ -30,4 +30,4 @@
 
 ## 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/yupeng-yang-19c
-- GitHub: https://github.com/yypang-it
+- GitHub: https://github.com/ypyang-it
