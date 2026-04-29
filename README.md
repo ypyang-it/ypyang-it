@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Yupeng Yang
 
-<!--
-**ypyang-it/ypyang-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Software Developer  
+🎓 AAS Computer Programming – Saint Paul College (4.0 GPA)  
+🏆 Phi Theta Kappa Honor Society  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- HTML, CSS (Bootstrap)
+- Basic Networking (Cisco Packet Tracer)
+- Troubleshooting & IT Support
+- C Programming (in progress)
+
+---
+
+## 📂 Projects
+- 🌐 Portfolio Website (in progress)
+- 💻 Web Development Assignments
+- 🖥️ Linux & Programming Labs
+
+---
+
+## 🎯 Goals
+- Transfer to Metropolitan State University (BS in Computer Science)
+- Become a Software Developer
+- Pursue a Master's in AI
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/yupeng-yang-19c
+- GitHub: https://github.com/yypang-it
