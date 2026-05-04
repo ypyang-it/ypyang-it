@@ -50,5 +50,5 @@ As a nontraditional student returning to college, I take pride in staying discip
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/ypyang-it/ypyang-it
-- GitHub: https://ypyang-it.github.io/portfolio/portfolio.html
+- GitHub: https://ypyang-it.github.io/portfolio
 - LinkedIn: https://www.linkedin.com/
